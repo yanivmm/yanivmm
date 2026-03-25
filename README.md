@@ -16,7 +16,7 @@
 
 ```python
 yaniv = {
-    "education"  : "B.Sc. Information Systems,specializing at Data Science, avg:88",
+    "education"  : "B.Sc. in Information Systems, specializing in Data Science, GPA:88",
     "focus"      : ["Data Science", "Big Data Engineering", "Analytics"],
     "languages"  : ["Python", "SQL", "R", "Scala (Spark)"],
     "tools"      : ["Pandas", "scikit-learn", "Spark", "Hadoop", "Tableau", "OpenCV"],

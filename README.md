@@ -16,8 +16,7 @@
 
 ```python
 yaniv = {
-    "education"  : "B.Sc. Information Systems",
-    "location"   : "Israel 🇮🇱",
+    "education"  : "B.Sc. Information Systems,specializing at Data Science, avg:88",
     "focus"      : ["Data Science", "Big Data Engineering", "Analytics"],
     "languages"  : ["Python", "SQL", "R", "Scala (Spark)"],
     "tools"      : ["Pandas", "scikit-learn", "Spark", "Hadoop", "Tableau", "OpenCV"],

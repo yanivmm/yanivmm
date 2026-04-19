@@ -124,7 +124,7 @@ df.groupBy(
 ---
 
 ### 📊 Tableau Dashboards
-> *[tableau repo](https://github.com/yanivmm/tableau)*
+> *[tableau repo](https://public.tableau.com/app/profile/yaniv3490/)*
 
 Interactive business dashboards translating complex datasets into clear visual narratives — KPI tracking, trend analysis, geographic heatmaps, and executive-level reporting.
 
